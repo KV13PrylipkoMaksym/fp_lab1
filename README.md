@@ -53,7 +53,6 @@ CL-USER> (setq personal-list          ; task 1
 
 ## Результат виконання програми
 ```
-(LABORATORNA 28 (NUMBER 2 8) NIL (F . G))
 CL-USER> (car personal-list) ; task 2
 LABORATORNA
 CL-USER> (cdr personal-list) ; task 3
